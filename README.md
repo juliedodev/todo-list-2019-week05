@@ -2,8 +2,12 @@ This project is a create a simple to do list where the user can add items to the
 
 <img src="todolist.png">
 
-How It's Made:
-Tech Used: HTML, CSS, JavaScript
+How It's Made Tech Used: 
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
 
 Optimizations:
 The improvements I made were to add CSS to make it look styled with color.
