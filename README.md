@@ -1,22 +1,12 @@
-# ✅ Week05 Bootcamp2019 Project: Todo List
+This project is a create a simple to do list where the user can add items to the list, and double click to cross out the item and clear once completed. 
 
-### Goal: Build a Simple Todo List
+<img src="todolist.png">
 
-### How to submit your code for review:
+How It's Made:
+Tech Used: HTML, CSS, JavaScript
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+Optimizations:
+The improvements I made were to add CSS to make it look styled with color.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+Lesson Learned:
+I learned how to build the to do list with html, css and using javascript as the functionality.
