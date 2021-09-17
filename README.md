@@ -2,6 +2,8 @@ This project is a create a simple to do list where the user can add items to the
 
 <img src="todolist.png">
 
+Site: [https://juliedodev-todo.netlify.app]
+
 How It's Made:
 Tech Used: HTML, CSS, JavaScript
 
